@@ -13,4 +13,5 @@ You get the Java sample code [(original here)](https://developer-eu.ecoflow.com/
 With `code .` (mind the period) you start VS Code in the Present (Current) Working Directory  
 Open ecoflow-open-demo\src\main\java\com\ecoflow\iot\open\Main.java in the Code editor, paste AccessKey and SecretKey and save.  
 Run > Start debugging  
-Fingers crossed...  
+Fingers crossed...<br>  
+Find Python and shell script variants in [Mark Hicks' repo](https://github.com/Mark-Hicks/ecoflow-api-examples)
