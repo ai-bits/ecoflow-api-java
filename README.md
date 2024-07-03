@@ -2,7 +2,7 @@
 <b>List your EcoFlow gadgets and get / set parameters.</b>  
 Version: 0.0.2 quick and dirty to see something working without a gazillion prerequisites or dependencies  
 Functionality: currently minimal, but showing principles in Java; lists EcoFlow devices based on access key; Quota() functions commented out as they throw errors; will check later  
-[Documentation](https://developer-eu.ecoflow.com/us/document/introduction) for own functionality, e.g. [PowerStream micro inverter](https://developer-eu.ecoflow.com/us/document/powerStreamMicroInverter) or [Delta 2 Max battery](https://developer-eu.ecoflow.com/us/document/delta2max)
+[EcoFlow documentation](https://developer-eu.ecoflow.com/us/document/introduction) for own functionality, e.g. [PowerStream micro inverter](https://developer-eu.ecoflow.com/us/document/powerStreamMicroInverter) or [Delta 2 Max battery](https://developer-eu.ecoflow.com/us/document/delta2max)
     
 Prerequisite: Apply for developer status at [EcoFlow](https://developer.ecoflow.com/) to get access and security keys to the EcoFlow cloud.   
 Optional Prerequisite to make things exactly work as advertized here: VS Code with MS Java extensions  
@@ -13,7 +13,7 @@ Before I had tried with the Home Assistant Supervised behemoth + Community Store
 <b>You should have seen my jaw drop when this ran (listed my EcoFlow gadgets) at the first attempt.</b>  
 You get the Java sample code [(original here)](https://developer-eu.ecoflow.com/us/document/download) when you `git clone https://github.com/ai-bits/ecoflow-api-java` (or download the repo-zip)  
 `cd ecoflow-api-java`  
-`code .` (Example without VS Code may follow)  
+`code .` (example without VS Code may follow)  
 With `code .` (mind the period) you start VS Code in the Present (Current) Working Directory  
 Open ecoflow-open-demo\src\main\java\com\ecoflow\iot\open\Main.java in the Code editor, paste AccessKey and SecretKey and save.  
 Run > Start debugging  
