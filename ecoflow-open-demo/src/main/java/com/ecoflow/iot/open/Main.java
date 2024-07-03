@@ -19,9 +19,9 @@ public class Main {
     public static void main(String[] args) {
         getMQTTCertification();
         deviceList(); //corrected typo
-        //setQuota(); //returns "not allowed"
-        //getQuota();
-        //getAllQuota();
+        //setQuota(); //no permission
+        //getQuota(); //no permission
+        //getAllQuota(); //signature wrong
     }
 
     private static void getMQTTCertification() {
