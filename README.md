@@ -7,7 +7,7 @@ Dependency: some Java runtime default installation (my sheer luck: I had some 20
 Before I had tried with the Home Assistant Supervised behemoth + Community Store & PyScript extensions + lengthy code for EcoFlow, needing a dedicated Pi, nothing else on it and the kitchen-sink.  
 <br>
 <b>You should have seen my jaw drop when this ran (listed my EcoFlow gadgets) at the first attempt.</b>  
-You get the Java sample code [original here(https://developer-eu.ecoflow.com/us/document/download) when you `git clone https://github.com/ai-bits/ecoflow-api-java` (or download the repo-zip)  
+You get the Java sample code [original here](https://developer-eu.ecoflow.com/us/document/download) when you `git clone https://github.com/ai-bits/ecoflow-api-java` (or download the repo-zip)  
 `cd ecoflow-api-java`  
 `code .` (Example without VS Code may follow)  
 With `code .` (mind the period) you start VS Code in the Present (Current) Working Directory  
