@@ -1,5 +1,5 @@
 # ecoflow-api-java
-Enumerate your EcoFlow gadgets and get / set parameters.
+Enumerate your EcoFlow gadgets and get / set parameters./n
 Version: 0.0.1 quick and dirty to see something working without a gazillion prerequisites or dependencies
 Prerequisite: apply for developer status
 Dependency: Java runtime (my sheer luck: I had some 2021 version installed)
