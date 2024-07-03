@@ -1,6 +1,6 @@
 # ecoflow-api-java
-<b>Enumerate your EcoFlow gadgets and get / set parameters.</b><br>  
-Version: 0.0.1 quick and dirty to see something working without a gazillion prerequisites or dependencies  
+<b>Enumerate your EcoFlow gadgets and get / set parameters.</b>  
+Version: 0.0.1 quick and dirty to see something working without a gazillion prerequisites or dependencies<br>  
 Prerequisite: Apply for developer status at [EcoFlow](https://developer.ecoflow.com/) to get access and security keys to the EcoFlow cloud.   
 Optional Prerequisite to make things exactly work as advertized here: VS Code with MS Java extensions  
 Dependency: some Java runtime default installation (my sheer luck: I had some 2021 version installed)  
