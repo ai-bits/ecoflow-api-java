@@ -7,4 +7,9 @@ Before I had tried with the Home Assistant Supervised behemoth + Community Store
 You should have seen my jaw drop when this ran (listed my EcoFlow gadgets) at the first attempt.  
 Prerequisite: Apply for developer status at [EcoFlow](https://developer.ecoflow.com/) to get access and security keys to the EcoFlow cloud.  
 You get the Java sample code when you `git clone https://github.com/ai-bits/ecoflow-api-java` (or download the repo-zip)  
-`cd ecoflow-api-java`
+`cd ecoflow-api-java`  
+`code .`  
+With `code .` (mind the period) you start VS Code in the Present (Current) Working Directory  
+Open ecoflow-open-demo\src\main\java\com\ecoflow\iot\open\Main.java in the Code editor, paste AccessKey and SecretKey and save.  
+Run > Start debugging  
+Fingers crossed...  
